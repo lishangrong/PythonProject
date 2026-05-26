@@ -1,0 +1,21 @@
+{
+  "current_session": "2026-05-26_15-33-46",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！咱们来猜个字谜吧：\n\n“一加一不是二”（打一字）\n\n请猜~"
+    },
+    {
+      "role": "user",
+      "content": "王"
+    },
+    {
+      "role": "assistant",
+      "content": "太棒了！就是“王”字！要不要再来一题？"
+    }
+  ]
+}
